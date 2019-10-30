@@ -1,9 +1,11 @@
-﻿# Applying a Branch and Bound algorithm and heuristics to the complex job shop scheduling problem in the semi-conductor industry.
+﻿# Scheduling Optimisation in the semi-conductor industry.
+
+## Applying a Branch and Bound algorithm and heuristics to the complex job shop scheduling problem in the semi-conductor industry.
 4th year project supervised by M. Artigues and M. Lopez from LAAS, CNRS Toulouse. 
 
 In this git repository, you will find our code for the optimization of the scheduling of the production in the semi-conductor industry. We also provide an algorithm to visualize our solution with Gantt's Diagram. For further details on our methods and results, you can refer to our article.
 
-Abstract :
+### Abstract :
 
 The production of semi-conductors is a complex process, which requires many steps on different machines. The scheduling optimization of this production can be modelled by the complex job shop model with batch. Job shop is one of the most common scheduling problems. Usual job shops include jobs which are carryingout multiple operations in a set of machines, with specific scheduling constraints. 
 We study a semiconductormanufacturing model including batching, setup times and release dates. This case is currently one of the most complex job shops. The optimization of this model is an NP-hard problem, which cannot be solved inpolynomial time. Our objective is to develop an algorithm to find an approximate solution in a reasonabletime.  
